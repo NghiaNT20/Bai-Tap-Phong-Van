@@ -62,6 +62,7 @@ Lợi ích:
         - Machine Learning có thể hoạt động tốt với dữ liệu có đặc trưng rõ ràng.
 
 Bất lợi:
+
     Deeplearning:
         - Deep Learning cần một lượng lớn dữ liệu để huấn luyện mô hình.
         - Deep Learning cần một lượng lớn dữ liệu để huấn luyện mô hình.
