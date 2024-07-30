@@ -1,6 +1,6 @@
 # Bai-Tap-Phong-Van
 
-#Bài 1:
+# Bài 1:
 
     Độ chính xác trên tập train: 0.9787
     Độ chính xác trên tập test: 0.9586
